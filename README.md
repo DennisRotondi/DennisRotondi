@@ -1,4 +1,4 @@
-<h1 >👋 Hi there, welcome to my Gihub profile!</h1>
+<h1 >👋 Hi there, welcome to my GitHub profile!</h1>
 
 - 🏠 I’m @DennisRotondi, a Ph.D. researcher in Artificial Intelligence and Robotics @University of Stuttgart
 - 🔭 My work primarily focuses on **Efficient Neural Semantic 3D Reconstruction for Mobile Robots**
